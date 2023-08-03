@@ -15,7 +15,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: 'https://hsuan1117.github.io/vue3-shopping-cart/',
   build: {
     outDir: "docs"
   }
