@@ -1,0 +1,16 @@
+{
+  "YMK_HELLO_WORLD": {
+    "amount_off": 50,
+    "min_price": 100,
+    "message": "新用戶滿100折50"
+  },
+  "YMK_10OFF": {
+    "percent_off": 10,
+    "min_price": 100,
+    "message": "滿100打9折"
+  },
+  "YMK_NO_SHIP_ANYMORE": {
+    "ship_off": true,
+    "message": "無門檻免運"
+  }
+}
